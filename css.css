@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    font-family: Karla;
+    font-weight: 400;
+}
+
+.h3 {
+    color:  hsl(179, 62%, 43%);
+    font-size: 40px;
+}
+.p {
+    color: hsl(71, 73%, 54%);
+    font-size: 30px;
+}
+.p1 {
+    color: grey;
+    font-size: 20px;
+}
+.p2 {
+    color: grey;
+    font-size: 20px;
+}
+
+.sec {
+    font-size: 25px;
+    height: 50vh;
+    width: 30vw;
+    float: left;
+    background-color:  hsl(179, 62%, 43%);
+    color: white;
+    padding: 20px;
+}
+.button {
+    color: white;
+    background-color: hsl(71, 73%, 54%);
+    font-size: 20px;
+    height: 30px;
+    width: 200px;
+    
+}
+.nxt {
+    padding: 20px;
+    font-size: 25px;
+    height: 50vh;
+    width: 45vw;
+    color: white;
+    float: left;
+    
+    background-color: hsl(179, 49%, 52%);
+}
+
